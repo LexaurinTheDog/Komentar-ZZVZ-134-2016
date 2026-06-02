@@ -2434,7 +2434,6 @@ Vazba na § 66 — pravidlo o opakovaných plněních. Podmínky:
 
 ---
 
-
 ---
 
 > **Pokračování:** Hlavy XII–XIII Části čtvrté (§§ 101–128) – výběr dodavatele, mimořádně nízká nabídková cena, kritéria hodnocení, elektronická aukce, uzavření smlouvy – jsou v samostatném souboru [04-cast-4b-nadlimitni-vyber-namitky-uzavreni.md](04-cast-4b-nadlimitni-vyber-namitky-uzavreni.md).
